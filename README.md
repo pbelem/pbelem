@@ -10,6 +10,29 @@
   <img height=48 weidth=64 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail icon"
 </a>
 
+##
+
+<h1>Learned technologies</h1>
+
+<a href=https://github.com/pbelem/LearningJavaPOO.git target="_blank" rel="noopener noreferrer">
+  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+</a>
+  <a href=https://github.com/pbelem/SpringBootProject.git target="_blank" rel="noopener noreferrer"> 
+  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+ </a>
+ <!-- <a href= target="_blank" rel="noopener noreferrer"> -->
+  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <!--</a>-->
+  <a href=https://github.com/pbelem/HtmlAndCssLearningPlace.git target="_blank" rel="noopener noreferrer">
+  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  </a>
+  <a href=https://github.com/pbelem/HtmlAndCssLearningPlace.git target="_blank" rel="noopener noreferrer">
+  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  </a>
+  <a href=https://github.com/pbelem/CalculatorJavascript.git target="_blank" rel="noopener noreferrer">
+  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  </a>
+
 
 <!--
 **pbelem/pbelem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
