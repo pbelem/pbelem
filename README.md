@@ -1,4 +1,4 @@
-<h2>Owner</h2>
+<h1>Owner</h1>
 <h3>Pedro Henrique Ribeiro Dias Belém</h3>
 <h2>How to reach me:</h2>
 <a href=https://www.linkedin.com/in/pedro-belém-49909424b/ target="_blank" rel="noopener noreferrer">
