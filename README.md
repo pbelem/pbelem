@@ -1,5 +1,4 @@
-<h1>Owner</h1>
-<h3>Pedro Henrique Ribeiro Dias Belém</h3>
+<h1 align="center">Pedro Henrique Ribeiro Dias Belém</h1>
 <h2>How to reach me:</h2>
 <a href=https://www.linkedin.com/in/pedro-belém-49909424b/ target="_blank" rel="noopener noreferrer">
   <img height=30 weidth=40 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedId icon" />
