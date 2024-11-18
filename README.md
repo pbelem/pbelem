@@ -10,25 +10,25 @@
 
 ##
 
-<h1>Learned technologies</h1>
+<h1>Skills</h1>
 
 <a href=https://github.com/pbelem/LearningJavaPOO.git target="_blank" rel="noopener noreferrer">
-  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img height=30 weidth=40 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </a>
   <a href=https://github.com/pbelem/SpringBootProject.git target="_blank" rel="noopener noreferrer"> 
-  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img height=30 weidth=40 src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
  </a>
- <!-- <a href= target="_blank" rel="noopener noreferrer"> -->
-  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <!--</a>-->
-  <a href=https://github.com/pbelem/HtmlAndCssLearningPlace.git target="_blank" rel="noopener noreferrer">
-  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ <a href=https://github.com/pbelem/SpringBootProject.git target="_blank" rel="noopener noreferrer">
+  <img height=30 weidth=40 src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
   <a href=https://github.com/pbelem/HtmlAndCssLearningPlace.git target="_blank" rel="noopener noreferrer">
-  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height= 30 weidth=40 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href=https://github.com/pbelem/HtmlAndCssLearningPlace.git target="_blank" rel="noopener noreferrer">
+  <img height=30 weidth=40 src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
   <a href=https://github.com/pbelem/CalculatorJavascript.git target="_blank" rel="noopener noreferrer">
-  <img height= 90 weidth= 120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height=30 weidth=40 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
 
 
