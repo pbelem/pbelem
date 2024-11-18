@@ -28,6 +28,11 @@
   <a href=https://github.com/pbelem/CalculatorJavascript.git target="_blank" rel="noopener noreferrer">
   <img height=30 weidth=40 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
+<div>
+    <a href=https://github.com/pbelem>
+      <img height=250em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbelem&theme=blue-green">
+    </a>
+  </div>
 
 
 <!--
