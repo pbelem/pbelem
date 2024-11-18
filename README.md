@@ -5,7 +5,7 @@
 <a href=https://www.linkedin.com/in/pedro-belém-49909424b/ target="_blank" rel="noopener noreferrer">
   <img height=60 weidth=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedId icon" />
 <a/><br>
-  <h4>Why didn't you send me an email?</h4>
+  <h4>Why don't you send me an email?</h4>
 <a href="mailto:pedro.belem@ucsal.edu.br?subject=Assunto do Email&body=Corpo do email" target="_blank rel="noopener noreferrer">
   <img height=54 weidth=72 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail icon"
 </a>
