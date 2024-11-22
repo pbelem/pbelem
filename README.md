@@ -38,16 +38,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer"/>
 
-<!--
-[![](https://visitcount.itsvg.in/api?id=pbelem&icon=5&color=12)](https://visitcount.itsvg.in)
-![](https://github-readme-stats.vercel.app/api?username=pbelem&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbelem&repo=FirstCRUD&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/pbelem/FirstCRUD)
 
-```zig
-🔭 I'm currently studying at university
-🏫 Universidade Católica do Salvador - UCSal
-📚 Software Engineering
-🤝 I’m looking for a job
-🌱 I’m currently learning spring and databases
-```
+<!--
 
 --->
