@@ -31,12 +31,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pbelem&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pbelem&theme=shadow_red&hide_border=true)
 
-<p align="center">
-  <b>Visitors Count:</b><br><br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=pbelem&label=Profile%20Views&color=12&icon=5&pretty=false"/>
-  </a>
-</p>
+<div align="center">
+<br><p align="centre"><b>Visitors Count:</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pbelem}/count.svg" /></p> 
+<br>
+</div>
 
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pbelem&bg_color=0d1117&color=266f7e&line=219a09&point=c7ca0c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -53,5 +52,12 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pbelem}/count.svg" /></p> 
 <br>
 </div>
+
+<p align="center">
+  <b>Visitors Count:</b><br><br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=pbelem&label=Profile%20Views&color=12&icon=5&pretty=false"/>
+  </a>
+</p>
 
 --->
