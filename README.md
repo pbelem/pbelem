@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pedro+Belém;I'm+21+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-# 💫 About Me:
-```zig
-🔭 I'm currently studying at university
-🏫 Universidade Católica do Salvador - UCSal
-📚 Software Engineering
-🤝 I’m looking for a job
-🌱 I’m currently learning spring and databases
-```
+# 💫 About Me:  
+🔭 I'm currently studying at university  
+🏫 Universidade Católica do Salvador - UCSal  
+📚 Software Engineering  
+🤝 I’m looking for a job  
+🌱 I’m currently learning spring and databases  
+
 
 ## 🌐 Socials:
 <a href=https://www.linkedin.com/in/pedro-belém-49909424b/ target="_blank" rel="noopener noreferrer">
