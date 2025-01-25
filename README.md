@@ -23,7 +23,7 @@
 
 ## ⚙ Currently Working On:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbelem&repo=dealership&theme=shadow_blue&include_all_commits=true&count_private=true)](https://github.com/pbelem/dealership)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbelem&repo=LearningJavaPOO&theme=shadow_blue&include_all_commits=true&count_private=true)](https://github.com/pbelem/dealership)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbelem&repo=SpringBootProject&theme=shadow_blue&include_all_commits=true&count_private=true)](https://github.com/pbelem/SpringBootProject)
 
 # 📊 GitHub Stats:
