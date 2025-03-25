@@ -23,8 +23,8 @@
 
 ## ⚙ Currently Working On:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbelem&repo=LearningJavaPOO&theme=shadow_blue&include_all_commits=true&count_private=true)](https://github.com/pbelem/dealership)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbelem&repo=database2&theme=shadow_blue&include_all_commits=true&count_private=true)](https://github.com/pbelem/database2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbelem&repo=LearningJavaPOO&theme=shadow_blue&include_all_commits=true&count_private=true)](https://github.com/pbelem/LearningJavaPOO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbelem&repo=dataStructure&theme=shadow_blue&include_all_commits=true&count_private=true)](https://github.com/pbelem/dataStructure)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pbelem&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
